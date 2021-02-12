@@ -1,4 +1,4 @@
 # Template Java Gradle
 
-Java tempalte for Guage using gradle as build tool
+Java template for Gauge using gradle as build tool
 
