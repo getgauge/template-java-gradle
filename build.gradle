@@ -15,5 +15,5 @@ repositories {
 
 dependencies {
     implementation 'com.thoughtworks.gauge:gauge-java:0.7.15'
-    testImplementation group: 'org.assertj', name: 'assertj-core', version: '3.20.1'
+    testImplementation group: 'org.assertj', name: 'assertj-core', version: '3.20.2'
 }
